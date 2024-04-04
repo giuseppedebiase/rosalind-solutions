@@ -16,3 +16,4 @@ INI6 | Dictionaries | [link](https://github.com/giuseppedebiase/rosalind-solutio
 ID   | Title | Solution
 -----|-------|---------
 DNA  | Counting DNA Nucleotides | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/DNA)
+RNA  | Trascribing DNA into RNA | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/RNA)
