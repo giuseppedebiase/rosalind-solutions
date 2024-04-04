@@ -1,4 +1,4 @@
-# Rosalind
+# Rosalind <img src="https://github.com/giuseppedebiase/rosalind-solutions/blob/main/logo.png" width="35x" height="35x">
 [Rosalind](https://rosalind.info/about/) is a platform for learning bioinformatics through problem solving.
 
 ## Python Village
