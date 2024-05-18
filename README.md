@@ -18,3 +18,4 @@ ID   | Title | Solution
 DNA  | Counting DNA Nucleotides | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/DNA)
 RNA  | Transcribing DNA into RNA | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/RNA)
 REVC | Complementing a Strand of DNA | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/REVC)
+FIB  | Rabbits and Recurrence Relations | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/FIB)
