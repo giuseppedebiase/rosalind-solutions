@@ -20,3 +20,4 @@ RNA  | Transcribing DNA into RNA | [link](https://github.com/giuseppedebiase/ros
 REVC | Complementing a Strand of DNA | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/REVC)
 FIB  | Rabbits and Recurrence Relations | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/FIB)
 GC   | Computing GC Content | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/GC)
+HAMM | Counting Point Mutations | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/HAMM)
