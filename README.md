@@ -1,5 +1,5 @@
 # Rosalind <img src="https://github.com/giuseppedebiase/rosalind-solutions/blob/main/logo.png" width="35x" height="35x">
-[Rosalind](https://rosalind.info/about/) is a platform for learning bioinformatics through problem solving.
+[Rosalind](https://rosalind.info/about/) is a platform for learning bioinformatics through problem solving. [My Rosalind profile](https://rosalind.info/users/giuseppe.debiase1999/).
 
 ## Python Village
 "If you are completely new to programming, try these initial problems to learn a few basics about the Python programming language. You'll get familiar with the operations needed to start solving bioinformatics challenges in the Stronghold."
