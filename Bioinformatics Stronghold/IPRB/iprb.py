@@ -15,7 +15,7 @@ contents_as_list = contents.split(' ')
 #AA = homozygous dominant, Aa = heterozygous, aa = homozygous recessive
 #Total probability = sum (probability that specimen A reproduces with specimen B) * probability that the offspring has a dominant allele
 
-#Lists that will contain the number of AA, Aa and aa
+#List that contains the number of AA, Aa and aa
 pop = []
 
 for i in contents_as_list:
