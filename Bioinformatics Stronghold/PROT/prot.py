@@ -1,3 +1,9 @@
+'''
+https://rosalind.info/problems/prot/
+
+Given: An RNA string s corresponding to a strand of mRNA (of length at most 10 kbp).
+Return: The protein string encoded by s.
+'''
 import re
 
 #I used regex to make the dict smaller (otherwise I would've had to create 61 key:value pairs)
