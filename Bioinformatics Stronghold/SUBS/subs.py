@@ -1,4 +1,10 @@
-#no regex beacause it would've made solving the problem pointless
+'''
+https://rosalind.info/problems/subs/
+
+Given: Two DNA strings s and t (each of length at most 1 kbp).
+Return: All locations of t as a substring of s.
+'''
+#no regex beacause it would've made solving the problem too easy
 file = open('rosalind_subs.txt', 'r')
 seq = file.readline().rstrip('\n')
 motif = file.readline().rstrip('\n')
