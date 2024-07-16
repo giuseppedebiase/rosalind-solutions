@@ -22,4 +22,5 @@ FIB  | Rabbits and Recurrence Relations | [link](https://github.com/giuseppedebi
 GC   | Computing GC Content | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/GC)
 HAMM | Counting Point Mutations | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/HAMM)
 IPRB | Mendel's First Law | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/IPRB)
-PROT |Translating RNA into Protein | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/PROT)
+PROT | Translating RNA into Protein | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/PROT)  
+SUBS | Finding a Motif in DNA | [link](https://rosalind.info/problems/subs/)
