@@ -26,3 +26,4 @@ PROT | Translating RNA into Protein | [link](https://github.com/giuseppedebiase/
 SUBS | Finding a Motif in DNA | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/SUBS)  
 CONS | Consensus and Profile | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/CONS)  
 FIBD | Mortal Fibonacci Rabbits | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/FIBD)
+GRPH | Overlap Graphs | [link](https://github.com/giuseppedebiase/rosalind-solutions/tree/main/Bioinformatics%20Stronghold/GRPH)
